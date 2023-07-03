@@ -1,5 +1,6 @@
 # currency_miniProject
 
+![image](https://github.com/qwa1822/currency_miniProject/assets/58835205/fb69bf36-8255-48f1-ba96-49c437c90432)
 
 https://qwa1822.github.io/currency_miniProject/
 
